@@ -1,7 +1,7 @@
 ---
 name: visual-generator
 description: Generate simple SVG visuals from text prompts
-skill: |
+instructions: |
   ## When to use
   Use this skill when the user asks to:
   - create an image
