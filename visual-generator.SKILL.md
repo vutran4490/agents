@@ -1,4 +1,3 @@
----
 name: visual-generator
 ---
 description: Generate simple SVG visuals from text prompts
